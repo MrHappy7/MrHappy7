@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 **I'm Vinnie**, a systems engineer with a software background. 
 
+[Here are my public notes](https://mrhappy7.github.io/Knowledge-Repository-Publish/#/all-pages)
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MrHappy7&show_icons=true&hide_border=true&hide_title=true&theme=vue-dark#gh-dark-mode-only" alt="MrHappy7's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MrHappy7&show_icons=true&hide_border=true&hide_title=true&theme=vue#gh-light-mode-only" alt="MrHappy7's github stats" /></a>
 
 <picture>
